@@ -20,7 +20,7 @@ An Excel/Google Sheets dashboard analyzing employee attrition and compensation p
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](dashboard-screenshot.png)
+![Dashboard Screenshot](pro.png)
 
 ## Dataset
 
